@@ -1,0 +1,29 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-right: 48px;
+  padding-left: 48px;
+  padding-top: 20px;
+}
+
+.link-item {
+  text-decoration: none;
+}
+
+.website-logo {
+  height: 60px;
+  width: 140px;
+}
+
+.logout-btn {
+  background: transparent;
+  height: 35px;
+  width: 80px;
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: #ffffff;
+  font-weight: 400;
+  border: 1px solid #ffffff;
+  padding: 6px 12px 6px 12px;
+}
